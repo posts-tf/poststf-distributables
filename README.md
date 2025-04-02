@@ -4,7 +4,7 @@ This repository serves as a public resource for all of the public Posts.tf distr
 
 ## TF2 Server Plugin
 
-[posts.smx](./server-plugin/posts.smx) plugin
+[posts.smx](./server-plugin/) plugin
 
 ### Installation Instructions
 
